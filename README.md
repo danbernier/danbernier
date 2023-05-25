@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm an experienced software engineer. **I'm open to work!**
+
+⚓️ I live in Providence, RI.
+
+I make music 🎹, and [generative art](https://designischoice.com/). I'm an autodidact, and like to remember that "amateur" comes from the French for "one who loves."
+
 <!--
 **danbernier/danbernier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
