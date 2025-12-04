@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an experienced software engineer, and a bit of a hack.
+I'm an long-time software engineer, with experience in open source work, startups, and the enterprise. Focused on ruby and the backend lately, but still full-stack.
 
 🏳️‍🌈 I'm non-binary.
 
